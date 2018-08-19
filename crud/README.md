@@ -1,3 +1,3 @@
 # Crud Productos
 
-Se crea CRUD con login guardadno en base de dtos postgreSQL
+Se crea CRUD con login guardando en base de dtos postgreSQL
